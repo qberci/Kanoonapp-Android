@@ -4475,9 +4475,9 @@ minizlib@^1.1.1:
     minipass "^2.2.1"
 
 mixin-deep@^1.2.0:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/mixin-deep/-/mixin-deep-1.3.1.tgz#a49e7268dce1a0d9698e45326c5626df3543d0fe"
-  integrity sha512-8ZItLHeEgaqEvd5lYBXfm4EZSFCX29Jb9K+lAHhDKzReKBQKj3R+7NOF6tjqYi9t4oI8VUfaWITJQm86wnXGNQ==
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/mixin-deep/-/mixin-deep-1.3.2.tgz#1120b43dc359a785dce65b55b82e257ccf479566"
+  integrity sha512-WRoDn//mXBiJ1H40rqa3vH0toePwSsGb45iInWlTySa+Uu4k3tYUSxa2v1KqAiLtvlrSzaExqS1gtk96A9zvEA==
   dependencies:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
@@ -6002,11 +6002,6 @@ rimraf@~2.2.6:
   version "2.2.8"
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.2.8.tgz#e439be2aaee327321952730f99a8929e4fc50582"
   integrity sha1-5Dm+Kq7jJzIZUnMPmaiSnk/FBYI=
-
-rn-android-picker-dialog@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/rn-android-picker-dialog/-/rn-android-picker-dialog-1.1.1.tgz#23724bb26a68e99ebe00776ee998726def0391f0"
-  integrity sha512-z1XS9lpOE/HIyXtzajqlZrsEOdJNg13TKNJIT5cdk6TTtmGGmrDss+AJeZDpjSMujt9U6fpGFNghC5RkSpm6Xg==
 
 rndm@1.2.0:
   version "1.2.0"
